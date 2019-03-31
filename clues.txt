@@ -1,0 +1,11 @@
+There is blood at the bottom of the vase | true
+There is blood on the knife | false
+There is a letter about electric outrage in this house on Tuesday, March 5 | true
+There is nothing in the mailbox | false
+On the phone of Mike, a postman's message shows that someone in the house told him Mike was sleeping on Wednesday, March 6 | true
+On the phone of Mike, a postman's message shows that no one is in the house on Wednesday, March 6 | false
+The plate shows a vegatable salad was made, but that dish is not on the plate. | true
+Ashley and George's package is delivered on Wednesday, March 6 | true
+George and Sarah have planned to have a trip with Mike, and they made a appointment on Thursday, March 7. | true
+Jonathan did not see Mike at the supermarket since Wednesday, March 6. | true
+Jonathan heard some cooking sound from Mike's house on Thursday, March 7. | true

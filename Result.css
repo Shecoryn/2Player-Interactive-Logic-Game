@@ -1,0 +1,57 @@
+body {
+	background-color: #000000;
+	background: url(mountains.jpg);
+}
+#container {
+	background-color: #FFFFFF;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Comic Sans MS";
+}
+#header {
+	background-color: #00284D;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Comic Sans MS";
+}
+#p1 {
+	width: 380px;
+	float: left;
+}
+#p1 ul {
+	list-style-type: none;
+	text-align: center;
+	background-color: #99CCFF;
+	
+}
+#p2 {
+	width: 380px;
+	float: right;
+}
+#p2 ul {
+	list-style-type: none;
+	text-align: center;
+	background-color: #FFCCFF;
+}
+h2 {
+	text-align: center;
+}
+#content {
+	padding: 10px;
+}
+#footer {
+	clear: both;
+	display: flex;
+	text-align: center;
+	background-color: #00284D;
+}
+.buttonHolder {
+	text-align: center;
+}
+.button {
+	
+}
+	
+	
